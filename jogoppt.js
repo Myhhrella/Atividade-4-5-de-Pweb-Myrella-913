@@ -5,7 +5,7 @@ do{
     
     continuar = (prompt("Deseja continuar a jogar? \n[1] - SIM \n[2] - NÃO"));
 
-}while(continuar == 1)
+}while(continuar == 1);
 
 function jogo(){
     let escolhaPC = escolhaComputador();
